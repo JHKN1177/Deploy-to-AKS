@@ -1,8 +1,7 @@
 trigger:
-- master
+- main
 
-resources:
-- repo: self
+
 
 variables:
   imageRepo: sampleapp
